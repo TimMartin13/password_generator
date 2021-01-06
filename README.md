@@ -2,23 +2,31 @@
 
 # Description
 A password generator that will generate a password based on user input
+<img src="./Assets/images/default.jpg">
 
 # Usage
-Click the red button to begin.  
-<img src="./Assets/images/password_generator_background.jpg">
-
 Enter the number of characters that you would like in your password.
-<img src="./Assets/images/character_number.jpg">
+<img src="./Assets/images/text_input.jpg">
 
-Confirm whether or not you would like lower case letters, upper case letters, numbers, and/or special characters.  Yes = Yes, Cancel = No.
+Confirm whether or not you would like lower case letters, upper case letters, numbers, and/or special characters, by selecting the switches.  Blue for selected.  If the switch is selected, there will be at least one character of that type in the generated password.
+<img src="./Assets/images/switches.jpg">
 
-<img src="./Assets/images/lower_case.jpg">
-<img src="./Assets/images/upper_case.jpg">
-<img src="./Assets/images/numbers.jpg">
-<img src="./Assets/images/special_characters.jpg">
+Click the red button to generate your password.  
+<img src="./Assets/images/sample_output.jpg">
+
+# Error checking
+If the user enters a number outside of the given range, they will see this error:
+<img src="./Assets/images/number_error.jpg">
+
+If the user enters anything that is not a number, they will get this error:
+<img src="./Assets/images/NaN_error.jpg">
+
+If the user doesn't choose any of the switches, they will get this error: 
+<img src="./Assets/images/switch_error.jpg">
 
 # Result
-<img src="./Assets/images/generated_example.jpg">
+Sample output:
+<img src="./Assets/images/sample_output.jpg">
 
 # Links
 Github link: https://github.com/TimMartin13/password_generator
