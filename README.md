@@ -9,6 +9,7 @@ Enter the number of characters that you would like in your password.
 <img src="./Assets/images/text_input.jpg">
 
 Confirm whether or not you would like lower case letters, upper case letters, numbers, and/or special characters, by selecting the switches.  Blue for selected.  If the switch is selected, there will be at least one character of that type in the generated password.
+
 <img src="./Assets/images/switches.jpg">
 
 Click the red button to generate your password.  
