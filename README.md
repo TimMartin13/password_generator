@@ -33,3 +33,9 @@ Sample output:
 Github link: https://github.com/TimMartin13/password_generator
 
 Published link: https://timmartin13.github.io/password_generator/
+
+
+## Contact Information
+
+Phone: 612.799.1450
+Email: timmartin13@gmail.com
